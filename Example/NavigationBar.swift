@@ -21,8 +21,6 @@ extension UINavigationBar {
 			
 			print("yay")
 			
-		default:
-			break
 		}
 	}
 	
