@@ -1,5 +1,5 @@
 # iOSSwiftExtensions
-<<<<<<< HEAD
+
 
 [![CI Status](http://img.shields.io/travis/Moi/iOSSwiftExtensions.svg?style=flat)](https://travis-ci.org/Moi/iOSSwiftExtensions)
 [![Version](https://img.shields.io/cocoapods/v/iOSSwiftExtensions.svg?style=flat)](http://cocoapods.org/pods/iOSSwiftExtensions)
@@ -23,11 +23,10 @@ pod "iOSSwiftExtensions"
 
 ## Author
 
-Moi, moi@ringseven.com
+Moi, moyoteg@gmail.com
 
 ## License
 
 iOSSwiftExtensions is available under the MIT license. See the LICENSE file for more info.
-=======
+
 This is a collection of the extensions I find useful.
->>>>>>> 481ecd0240dc8256c311d0ca135faeda236156d0
