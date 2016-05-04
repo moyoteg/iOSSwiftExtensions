@@ -17,12 +17,10 @@ extension UINavigationBar {
 	func makeNavigationBar(style: NavigationBarStyle) {
 		
 		switch style {
-		case .Home:
 			
+		case .Home:
 			print("yay")
 			
-		default:
-			break
 		}
 	}
 	
