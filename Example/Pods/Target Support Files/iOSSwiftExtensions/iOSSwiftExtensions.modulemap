@@ -1,0 +1,6 @@
+framework module iOSSwiftExtensions {
+  umbrella header "iOSSwiftExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}

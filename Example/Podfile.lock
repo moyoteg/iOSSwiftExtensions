@@ -1,0 +1,14 @@
+PODS:
+  - iOSSwiftExtensions (0.1.0)
+
+DEPENDENCIES:
+  - iOSSwiftExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  iOSSwiftExtensions:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOSSwiftExtensions: 0534419999f0cbe386a5cc5c4d49846dc7ff484c
+
+COCOAPODS: 0.39.0
