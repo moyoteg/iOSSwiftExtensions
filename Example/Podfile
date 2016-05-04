@@ -1,0 +1,8 @@
+use_frameworks!
+
+
+target 'iOSSwiftExtensions_Tests', :exclusive => true do
+  pod 'iOSSwiftExtensions', :path => '../'
+
+  
+end
