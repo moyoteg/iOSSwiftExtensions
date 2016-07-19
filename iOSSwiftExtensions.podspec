@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "iOSSwiftExtensions"
-  s.version          = "0.1.1"
+  s.version          = "0.1.2"
   s.summary          = "This is my coletion of useful Extensions."
   s.description      = "This is something I had to create to make it easy for me to use all my cool extensions =)."
   s.homepage         = "https://github.com/moyoteg/iOSSwiftExtensions"
